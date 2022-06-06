@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently student on **Solicode Tanger**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalbazid?tab=repositories](https://github.com/faisalbazid?tab=repositories)
 
